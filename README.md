@@ -8,7 +8,7 @@ Shaggy Timer is a professional countdown timer and programme display system for 
 ---
 
 ##  Downloads
-To download, go to [Releases](https://github.com/VideoMaven/ShaggyTimer/releases/tag/V1.0.0)
+To download, go to [Releases](https://github.com/VideoMaven/ShaggyTimer/releases)
 | Platform | File | Notes |
 |----------|------|-------|
 | **Mac** (Apple Silicon) | `shaggytimer_mac_arm.zip` | M1/M2/M3/M4 Macs only |
